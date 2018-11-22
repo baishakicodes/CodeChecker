@@ -1,5 +1,5 @@
 package com.company;
 
 public interface StringChecker {
-    public boolean isValid();
+    public boolean isValid(String str);
 }
